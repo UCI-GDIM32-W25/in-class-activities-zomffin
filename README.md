@@ -18,3 +18,6 @@ Advice for Acing the Class:
 6. (10) passes in an integer 10 to the function (argument), then the function adds the passed in integer into a string for the Debug.Log (parameter).
 7. In the translate function, it's using the object class Transform.
 8. It should be changed to _playerTransform.
+
+### Activity 3
+https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?usp=sharing
