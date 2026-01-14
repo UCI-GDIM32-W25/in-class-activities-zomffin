@@ -20,10 +20,14 @@ Advice for Acing the Class:
 8. It should be changed to _playerTransform.
 
 ### Activity 3
-https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?usp=sharing
+[MG1 Breakdown Doc](https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?usp=sharing)
 
 ## Week 2
 ### Activity 1 
 <img width="4308" height="2731" alt="image" src="https://github.com/user-attachments/assets/6d45bd0b-b40c-47ad-b844-bd9a3797517c" />
 
+### Activity 2
+[MG2 Commit](https://github.com/UCI-GDIM32-W25/mg2-oop-review-zomffin/commit/fbfda7c5933d5127c9618e15f4bb2cc51843a52d)
+
+I worked on getting the player jump to work right. I ended up doing a physics based jump since I made the ground a rigidbody for the player to sit on. I also had to remember the difference between OnTriggerEnter2D and OnCollisionEnter2D. I've been making a habit of using CompareTag on trigger checks but that doesn't work for the collision check. 
 
