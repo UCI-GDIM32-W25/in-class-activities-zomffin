@@ -21,3 +21,9 @@ Advice for Acing the Class:
 
 ### Activity 3
 https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?usp=sharing
+
+## Week 2
+### Activity 1 
+<img width="4308" height="2731" alt="image" src="https://github.com/user-attachments/assets/6d45bd0b-b40c-47ad-b844-bd9a3797517c" />
+
+
