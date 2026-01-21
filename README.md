@@ -34,5 +34,9 @@ I worked on getting the player jump to work right. I ended up doing a physics ba
 ## Week 3 
 ###Activity 1 & 2
 buddies: Zoya and Kristin
+
+### Activity 3
+<img width="4284" height="3457" alt="image" src="https://github.com/user-attachments/assets/b94b8720-5eec-4582-b9a2-30539f47629e" />
+
  
 
