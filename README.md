@@ -31,3 +31,8 @@ Advice for Acing the Class:
 
 I worked on getting the player jump to work right. I ended up doing a physics based jump since I made the ground a rigidbody for the player to sit on. I also had to remember the difference between OnTriggerEnter2D and OnCollisionEnter2D. I've been making a habit of using CompareTag on trigger checks but that doesn't work for the collision check. 
 
+## Week 3 
+###Activity 1 & 2
+buddies: Zoya and Kristin
+ 
+
