@@ -37,12 +37,17 @@ public class Pigeon : MonoBehaviour
     // use a Switch statement!
     private void UpdateAppearance()
     {
-        if (state == MovementState.Flying)
+        switch (state)
         {
-            PlayFlyAnimation();
-        } else
-        {
-            PlayIdleAnimation(); 
+            case MovementState.Idle:
+                PlayIdleAnimation(); 
+                break;
+            case MovementState.Flying:
+                PlayFlyAnimation(); 
+                break;
+            default: 
+                PlayIdleAnimation(); 
+                break;
         }
     }
 
