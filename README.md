@@ -40,5 +40,6 @@ buddies: Zoya and Kristin
 
 ## Week 4
 buddies: Zoya and Kristin again hehe
- 
+## Activity 1 
+I added multiple GameObjects with the Locater script on them. I noticed when I ran the game, that the extra GameObjects stayed but when inspected, the Locater component was gone. The last one in the Hierarchy is the only one that kept the Locater component. 
 
