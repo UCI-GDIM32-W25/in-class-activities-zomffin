@@ -7,9 +7,9 @@ public class W4Pigeon : MonoBehaviour
 
     // REMOVE these references to other objects!
     // we're going to alert them via EVENT instead!!
-    [SerializeField] private W4Seagull[] _seagulls;
-    [SerializeField] private W4UI _ui;
-    [SerializeField] private W4VFX _vfx;
+    //[SerializeField] private W4Seagull[] _seagulls;
+    //[SerializeField] private W4UI _ui;
+    //[SerializeField] private W4VFX _vfx;
 
     // HERE, add an event to tell other objects that the pigeon coo'd!
     public delegate void IntDelegate(); 
