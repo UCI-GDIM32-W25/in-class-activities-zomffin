@@ -52,4 +52,5 @@ I added multiple GameObjects with the Locater script on them. I noticed when I r
 
 ### Activity 3 
 [MG4 Commit](https://github.com/zomffin/HW4/commit/579861eb66886f3a88c0c819fbde81a44f467a52)
-I set up the project and started importing sprites. I also started adding GameObjects and creating scripts I think I'll need, as well as setting up what will eventually become the obstacle prefab. 
+
+I set up the project and started importing sprites. I also started adding GameObjects and creating scripts I think I'll need, as well as setting up what will eventually become the obstacle prefab.
