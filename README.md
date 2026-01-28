@@ -39,6 +39,6 @@ buddies: Zoya and Kristin
 <img width="4284" height="3457" alt="image" src="https://github.com/user-attachments/assets/b94b8720-5eec-4582-b9a2-30539f47629e" />
 
 ## Week 4
-
+buddies: Zoya and Kristin again hehe
  
 
