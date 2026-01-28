@@ -40,6 +40,14 @@ buddies: Zoya and Kristin
 
 ## Week 4
 buddies: Zoya and Kristin again hehe
-## Activity 1 
+### Activity 1 
 I added multiple GameObjects with the Locater script on them. I noticed when I ran the game, that the extra GameObjects stayed but when inspected, the Locater component was gone. The last one in the Hierarchy is the only one that kept the Locater component. 
+
+### Activity 2 
+<img width="3744" height="3503" alt="image" src="https://github.com/user-attachments/assets/b88c5aed-4b40-419d-bab0-5261f9df0831" />
+
+- MDV pattern will be useful in this project because we can decouple code between the player, game controller, and visual/audio controller.
+- Events can be used everytime the player scores a point, OR hits a pipe and ends the run.
+- We can use a singleton locater so objects can access one another. 
+
 
