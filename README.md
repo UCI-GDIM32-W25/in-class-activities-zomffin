@@ -50,4 +50,6 @@ I added multiple GameObjects with the Locater script on them. I noticed when I r
 - Events can be used everytime the player scores a point, OR hits a pipe and ends the run.
 - We can use a singleton locater (gamecontroller) so objects can subscribe to the events the player will send. 
 
+### Activity 3 
+[MG4 Commit](https://github.com/zomffin/HW4/commit/579861eb66886f3a88c0c819fbde81a44f467a52)
 
