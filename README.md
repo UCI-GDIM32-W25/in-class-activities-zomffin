@@ -48,6 +48,6 @@ I added multiple GameObjects with the Locater script on them. I noticed when I r
 
 - MDV pattern will be useful in this project because we can decouple code between the player, game controller, and visual/audio controller.
 - Events can be used everytime the player scores a point, OR hits a pipe and ends the run.
-- We can use a singleton locater so objects can access one another. 
+- We can use a singleton locater (gamecontroller) so objects can subscribe to the events the player will send. 
 
 
