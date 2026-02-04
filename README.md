@@ -61,3 +61,7 @@ I think the design of the interfaces and classes are fine, and it makes sense th
 
 ### Activity 2
 I think the Controller is represented by the Player script because it allows the player to interact with the game. The View is the DialogueBubble, Enemy and InventoryUI scripts. The Model are the EnemyStats and Item scriptable objects. 
+
+### Activity 3
+The beat system could use inheritance and polymorphism- so there's a basic abst+
+ract beat, which other beats inherit from. There's different types of beats that need a click, hold, or a swipe in a direction. These would become prefabs, where you could edit the timing during the song, the window of , and desired button press. 
