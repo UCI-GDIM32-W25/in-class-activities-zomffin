@@ -54,3 +54,7 @@ I added multiple GameObjects with the Locater script on them. I noticed when I r
 [MG4 Commit](https://github.com/zomffin/HW4/commit/579861eb66886f3a88c0c819fbde81a44f467a52)
 
 I set up the project and started importing sprites. I also started adding GameObjects and creating scripts I think I'll need, as well as setting up what will eventually become the obstacle prefab.
+
+## Week 5 
+### Activity 1
+I think the design of the interfaces and classes are fine, and it makes sense that they're an interface/abstract respectively. One thing I like to do is actually implement the methods in abstract classes so that there's a "default" implementation available. For example I feel like Break() is something that could be generalized (like it activates a particle effect and then destroys the game object). The abstract method makes sense for something like the Item's Use() because that would be fairly unique to the item. 
