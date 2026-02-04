@@ -63,5 +63,15 @@ I think the design of the interfaces and classes are fine, and it makes sense th
 I think the Controller is represented by the Player script because it allows the player to interact with the game. The View is the DialogueBubble, Enemy and InventoryUI scripts. The Model are the EnemyStats and Item scriptable objects. 
 
 ### Activity 3
+**Scenario 1:**
 The beat system could use inheritance and polymorphism- so there's a basic abst+
-ract beat, which other beats inherit from. There's different types of beats that need a click, hold, or a swipe in a direction. These would become prefabs, where you could edit the timing during the song, the window of , and desired button press. 
+ract beat, which other beats inherit from. There's different types of beats that need a click, hold, or a swipe in a direction. Then you can use a scriptable object to code the data it needs into it- The desired button press, the timing during the song, and the 
+
+**Scenario 2:**
+The controrller would be the script that handles player movement and actions (shooting, skills, etc.). The view would be handled by the animations responding to player action, either the player moving their own character around or how they may react to damage when getting shot at (flinching or something), as well as UI for displaying health, the map, etc. The model is all the info under the hood, the player healths, damage, character skills, etc. 
+
+**Scenario 3:**
+The player would need a state machine to direct the animations depending on what the player is doing (walking, running, planting, chopping down a tree, etc). 
+
+
+
