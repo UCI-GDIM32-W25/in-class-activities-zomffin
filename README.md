@@ -58,3 +58,6 @@ I set up the project and started importing sprites. I also started adding GameOb
 ## Week 5 
 ### Activity 1
 I think the design of the interfaces and classes are fine, and it makes sense that they're an interface/abstract respectively. One thing I like to do is actually implement the methods in abstract classes so that there's a "default" implementation available. For example I feel like Break() is something that could be generalized (like it activates a particle effect and then destroys the game object). The abstract method makes sense for something like the Item's Use() because that would be fairly unique to the item. 
+
+### Activity 2
+I think the Controller is represented by the Player script because it allows the player to interact with the game. The View is the DialogueBubble, Enemy and InventoryUI scripts. The Model are the EnemyStats and Item scriptable objects. 
