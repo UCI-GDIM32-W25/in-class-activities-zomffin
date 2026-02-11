@@ -81,15 +81,18 @@ The player would need a state machine to direct the animations depending on what
 **Talk: Cory Lanham, Narrative**
 - 3 Categories of game dev jobs: Freelance, Contract/Project, and In-House
 - Freelance tends to do specific deliverables, while In-House have more work across the production timeline.
+
   Pre-Pro:
 - High-Level Summaries, working with concept arts to develop world, setting, & characters.
 - Deciding Narrative Delivery Methods: *How* will story be told? *Can* (and how will) the player interact with it?
+
   Pro:
 - Cinematic + Mission Scripts, working with level design, implement and iterate
 - Systemic Dialogue (Barks, Ambient dialogue, Specialized dialogue)
 - UI/UX text (Item/Location Descriptions, Tool Tips)
   Post-Pro to Ship:
 - Marketing, Nondialogue text revisions, Localization notes 
+
 Books/Resources Mentioned:
 - Into the Woods
 - Video Game Storytelling (Skolnick)
@@ -100,6 +103,7 @@ Books/Resources Mentioned:
 - MatthewSeiji.Itch.io/TWWDS
 
 **Talk: Stephen Coan, Tech Art**
+
 Tech Art: Making sure technical problems don't get in the way of art.
 
 
