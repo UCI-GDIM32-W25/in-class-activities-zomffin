@@ -77,7 +77,7 @@ The controrller would be the script that handles player movement and actions (sh
 The player would need a state machine to direct the animations depending on what the player is doing (walking, running, planting, chopping down a tree, etc). 
 
 ## Week 6
-## GDW Talks
+### GDW Talks
 **Talk: Cory Lanham, Narrative**
 - 3 Categories of game dev jobs: Freelance, Contract/Project, and In-House
 - Freelance tends to do specific deliverables, while In-House have more work across the production timeline.
@@ -118,3 +118,17 @@ Getting into tech-art:
 - Basics of runtime optimization
 
 Learned about the Unity profiler for checking performance, paired with RenderDoc to be able to check (and time) every draw. 
+
+### Activity 1 
+Didn't understand how to do the breakpoint demo on my own (or rather, where I was supposed to put one in the scripts?). The other 2 demos though I was able to figure out, and were interesting. 
+
+I started testing gizmos out on my own a little (mainly to draw lines following raycasts). They are really useful to visualize how code is working, particularly when having to deal with the physics engine and seeing where an object is heading. It's also great for being able to see the colliders during runtime. 
+
+
+In GDIM 31, my final 3D project ended up lagging pretty bad on any weaker laptops so I tried some band aid fixes to make it a little better. I probably could've better identified what in particular made the game laggy with the profiler. I've been kind of interesting in how PCs work and optimization in games recently. Ever since I built my own PC I'm always checking how different games run and watching the taskmanager.
+
+### Activity 2
+We were all at GDW... 
+I've forked the final project repo ([here](https://github.com/zomffin/GDIM32-Final])) and invited the others as collaborators. 
+
+[Final Project Proposal (Final Draft)](https://docs.google.com/document/d/1feAz1l25pgZegPoBuH0r0d7QIG4UUXJjzvnXaiCcNWw/edit?tab=t.0#heading=h.y4j3q551ojs1)
