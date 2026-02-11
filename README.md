@@ -76,5 +76,41 @@ The controrller would be the script that handles player movement and actions (sh
 
 The player would need a state machine to direct the animations depending on what the player is doing (walking, running, planting, chopping down a tree, etc). 
 
+## Week 6
+## GDW Talks
+**Talk: Cory Lanham, Narrative**
+- 3 Categories of game dev jobs: Freelance, Contract/Project, and In-House
+- Freelance tends to do specific deliverables, while In-House have more work across the production timeline.
+  Pre-Pro:
+- High-Level Summaries, working with concept arts to develop world, setting, & characters.
+- Deciding Narrative Delivery Methods: *How* will story be told? *Can* (and how will) the player interact with it?
+  Pro:
+- Cinematic + Mission Scripts, working with level design, implement and iterate
+- Systemic Dialogue (Barks, Ambient dialogue, Specialized dialogue)
+- UI/UX text (Item/Location Descriptions, Tool Tips)
+  Post-Pro to Ship:
+- Marketing, Nondialogue text revisions, Localization notes 
+Books/Resources Mentioned:
+- Into the Woods
+- Video Game Storytelling (Skolnick)
+- Game Narrative Toolbox (Heussner et al.)
+- ...Survive an Industry that Hates You (Richard Danskey)
+- Gamejobs.co
+- GrackleHQ.com
+- MatthewSeiji.Itch.io/TWWDS
+
+**Talk: Stephen Coan, Tech Art**
+Tech Art: Making sure technical problems don't get in the way of art.
 
 
+Types: 
+Character Tech Art: Rigging + Skinning, Animation Tools
+Tools Tech Art: Asset Management, Smoothing Import/Export for artists and programmers
+Run-Time Tech Art: Shaders, Procedural generation/destruction, Optimization 
+
+Getting into tech-art: 
+- Shader editing in unity/unreal
+- Scripting for 3D modeling tools (Maya/Blender/Houdini)
+- Basics of runtime optimization
+
+Learned about the Unity profiler for checking performance, paired with RenderDoc to be able to check (and time) every draw. 
