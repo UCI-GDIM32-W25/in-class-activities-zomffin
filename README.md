@@ -145,3 +145,5 @@ I've forked the final project repo ([here](https://github.com/zomffin/GDIM32-Fin
 Attendance: Zoya McDonnell, Kristin Zhang
 
 ### Activity 3
+![final plan](https://github.com/user-attachments/assets/d87fd7a0-16de-494f-83fe-a1dc65fdefc8)
+
