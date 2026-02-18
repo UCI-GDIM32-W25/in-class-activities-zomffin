@@ -132,3 +132,16 @@ We were all at GDW...
 I've forked the final project repo ([here](https://github.com/zomffin/GDIM32-Final])) and invited the others as collaborators. 
 
 [Final Project Proposal (Final Draft)](https://docs.google.com/document/d/1feAz1l25pgZegPoBuH0r0d7QIG4UUXJjzvnXaiCcNWw/edit?tab=t.0#heading=h.y4j3q551ojs1)
+
+## Week 7
+### Activity 1
+- Raycasting is similar to a bow and arrow: Shoots out a line from an origin point in a specific direction, and then returns info on what it hits.
+- out hitInfo, the out parameter saves the info into a variable
+- hitInfo.point gives you the position
+- Spherecast, a different type of raycast (thick raycast)
+- Use gizmos to debug vectors because trying to read them is insane
+
+### Activity 2
+Attendance: Zoya McDonnell, Kristin Zhang
+
+### Activity 3
