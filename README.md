@@ -148,6 +148,10 @@ Attendance: Zoya McDonnell, Kristin Zhang
 ![final plan](https://github.com/user-attachments/assets/d87fd7a0-16de-494f-83fe-a1dc65fdefc8)
 
 ### Activity 4
-https://trello.com/b/2C5Di1Dz/32-final
+[Planning trello](https://trello.com/b/2C5Di1Dz/32-final)
+
+### Activity 5 
+[Final Project Commit](https://github.com/zomffin/GDIM32-Final/commit/fe83c8136dd832cbe22accb8457a5079ebce8598)
+Added a basic player movement script 
 
 
