@@ -147,3 +147,7 @@ Attendance: Zoya McDonnell, Kristin Zhang
 ### Activity 3
 ![final plan](https://github.com/user-attachments/assets/d87fd7a0-16de-494f-83fe-a1dc65fdefc8)
 
+### Activity 4
+https://trello.com/b/2C5Di1Dz/32-final
+
+
