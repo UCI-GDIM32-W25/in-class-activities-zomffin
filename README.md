@@ -169,3 +169,6 @@ Zoya is playtesting captain :3
 ### Activity 4 
 Add jumping and start figuring out throwing items 
 
+### Activity 5
+[Final Project Commit](https://github.com/zomffin/GDIM32-Final/commit/1be4b9faa5539f4330c97759a2442a54554ecc57)
+Added a jump and fixed the player movement script to not reset gravity
