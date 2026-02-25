@@ -154,4 +154,12 @@ Attendance: Zoya McDonnell, Kristin Zhang
 [Final Project Commit](https://github.com/zomffin/GDIM32-Final/commit/fe83c8136dd832cbe22accb8457a5079ebce8598)
 Added a basic player movement script 
 
+## Week 8
+### Activity 1
+Post processing is a shader that affects the entire screen. Doesn't affect one specific material/item. Ex. Bloom or color grading 
+To add unity stock post processing, it can be added to the main camera 
+Make sure it works with the chosen renderring pipeline! + version of unity!!!
+
+### Activity 2 
+Zoya McDonnell, Kristin Zhang
 
