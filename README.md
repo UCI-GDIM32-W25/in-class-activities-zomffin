@@ -161,5 +161,11 @@ To add unity stock post processing, it can be added to the main camera
 Make sure it works with the chosen renderring pipeline! + version of unity!!!
 
 ### Activity 2 
-Zoya McDonnell, Kristin Zhang
+Zoya McDonnell, Kristin 
+
+### Activity 3
+Zoya is playtesting captain :3 
+
+### Activity 4 
+Add jumping and start figuring out throwing items 
 
