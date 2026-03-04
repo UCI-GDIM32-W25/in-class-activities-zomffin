@@ -185,3 +185,9 @@ Zoya McDonnell, Kristin Zhang, Isabel Matsuno (lowkey was not marking myself dow
 ### Activity 3 
 Zoya is captain again, we want to know if the feel of the game matched our intended experience (curiosity about items) 
 
+### Activity 4
+Looking at our task list, I think we have most of the foundational parts working. Now we just have to actually implement the dialogue and quest system so the flow of the game works. 
+
+### Activity 5
+[Commit](https://github.com/zomffin/GDIM32-Final/commit/5f089ea03062526efdc1d3afc8ee5b78a53089f7)
+With the help of Andy H. Nguyen I fixed a double jumping bug in the player script. Just had to add a timer so that the collision wouldn't detect until the player starts falling. 
