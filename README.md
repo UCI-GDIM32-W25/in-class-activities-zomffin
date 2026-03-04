@@ -172,3 +172,16 @@ Add jumping and start figuring out throwing items
 ### Activity 5
 [Final Project Commit](https://github.com/zomffin/GDIM32-Final/commit/1be4b9faa5539f4330c97759a2442a54554ecc57)
 Added a jump and fixed the player movement script to not reset gravity
+
+## Week 9
+### Activity 1
+- An architectural solution will svale well if the program can handle LOTS of data, is performant, and easy for users (other programmers or other types of developers)
+- Design patterns help you write code that scales better (State machines, MVC, abstraction, polymorphism, etc.) 
+
+### Activity 2
+Zoya McDonnell, Kristin Zhang, Isabel Matsuno (lowkey was not marking myself down I was around) 
+
+
+### Activity 3 
+Zoya is captain again, we want to know if the feel of the game matched our intended experience (curiosity about items) 
+
