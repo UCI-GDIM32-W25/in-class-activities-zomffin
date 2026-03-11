@@ -190,6 +190,7 @@ Looking at our task list, I think we have most of the foundational parts working
 
 ### Activity 5
 [Commit](https://github.com/zomffin/GDIM32-Final/commit/5f089ea03062526efdc1d3afc8ee5b78a53089f7)
+
 With the help of Andy H. Nguyen I fixed a double jumping bug in the player script. Just had to add a timer so that the collision wouldn't detect until the player starts falling. 
 
 ## Week 10
@@ -204,4 +205,5 @@ I think we have decent progress, but we have to actually fix how NPCs work and g
 
 ### Activity 4
 [Commit](https://github.com/zomffin/GDIM32-Final/commit/244dc8f89e677d9cbab15c89643364b0d9ef30f0)
+
 I'm trying to change the NPC script to have it run away when the player enters its line of sight, but the state machine isn't cooperating at the moment. :-( 
