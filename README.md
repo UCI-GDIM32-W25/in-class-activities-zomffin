@@ -199,9 +199,9 @@ Kristin Zhang (Zoya went to GDC)
 ### Activity 2 
 Kristin Zhang playtesting leader
 
-## Activity 3 
+### Activity 3 
 I think we have decent progress, but we have to actually fix how NPCs work and get dialgoue + quests in... so a fairly hefty job is left. 
 
-## Activity 4
+### Activity 4
 [Commit](https://github.com/zomffin/GDIM32-Final/commit/244dc8f89e677d9cbab15c89643364b0d9ef30f0)
 I'm trying to change the NPC script to have it run away when the player enters its line of sight, but the state machine isn't cooperating at the moment. :-( 
